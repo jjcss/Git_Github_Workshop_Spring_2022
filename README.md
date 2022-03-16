@@ -25,12 +25,12 @@ We hope that you all learned a few valuable skills and we can't stress enough ju
 - [Using Github for Project Collaboration](https://github.com/features/issues)
 
 ### Next CSS Club Workshop
-[Technical Interview Prep Workshop Zoom Link](https://jjay-cuny.zoom.us/meeting/register/tZMvduutrToqHtCxBD6SD1ToACxXHVypBlRH)
-<b>Description:</b> In depth coding explanation of certain Data Structures, followed by tips on how to approach data structure questions, and ending with practing a couple of LeetCode problems.
-<b>Date:</b> March 29th, 2022
-<b>Time</b>: 1:40PM - 2:55PM
-<b>Meeting ID</b>: 872 1253 1044
-<b>Passcode</b>: 083836
+[Technical Interview Prep Workshop Zoom Link](https://jjay-cuny.zoom.us/meeting/register/tZMvduutrToqHtCxBD6SD1ToACxXHVypBlRH) <br>
+<b>Description:</b> In depth coding explanation of certain Data Structures, followed by tips on how to approach data structure questions, and ending with practing a couple of LeetCode problems. <br>
+<b>Date:</b> March 29th, 2022 <br>
+<b>Time</b>: 1:40PM - 2:55PM <br>
+<b>Meeting ID</b>: 872 1253 1044 <br>
+<b>Passcode</b>: 083836 <br>
 
 ### Opportunities
 - Madison Square Garden Student Associate Program (in-person internship)
